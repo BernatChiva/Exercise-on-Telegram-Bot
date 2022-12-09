@@ -1,0 +1,3 @@
+#!/pathtopython3
+pythocode
+chmod +x file.py
